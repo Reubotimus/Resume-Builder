@@ -1,0 +1,10 @@
+.form {
+    display: flex;
+    flex-direction: column;
+}
+
+#fields {
+    display: flex;
+    flex-direction: column;
+    gap: 2vh;
+}
